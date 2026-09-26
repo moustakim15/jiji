@@ -58,7 +58,7 @@ export default function MusicPlayer() {
 
           <span className="font-display text-xs tracking-wide uppercase text-dore-clair">
             {isDatePage
-              ? "أغدا ألقاك ؟"
+              ? " Click here أغدا ألقاك ؟"
               : ""}
           </span>
 
